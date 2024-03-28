@@ -1,1 +1,1 @@
-# SR
+# Systemy rekonfigurowalne
