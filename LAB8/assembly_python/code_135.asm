@@ -1,0 +1,6 @@
+movi R0, 0x00
+movi R1, 0x04
+addi R0, R0, 0x01
+and R2, R0, R1
+jz R2, 0x02
+movi R3, 0x01
