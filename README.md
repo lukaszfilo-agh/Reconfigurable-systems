@@ -1,1 +1,1 @@
-# Systemy rekonfigurowalne
+# Reconfigurable systems
